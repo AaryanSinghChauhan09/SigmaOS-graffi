@@ -3,7 +3,7 @@ name = "SigmaOS-graffi"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "graffi component"
+description = "graffi platform GUI toolkit component"
 upstream = []
 
 [contract]
